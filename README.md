@@ -12,3 +12,11 @@ This study investigates two key questions:
 - **Panel Regression**: Tests the relationship between sovereign bond yields, return volatility, NPL ratios, and bank stock returns
 - **Event Study**: Measures short-term market reaction (CAR) to sovereign credit rating upgrades and downgrades
 ## 📁 Repository Structure
+├── data/
+│   ├── Bank_Stock_Analysis.xlsx
+│   ├── Bond_Yield_data.xlsx
+│   └── Cleaned_Sovereign_Rating_Events.xlsx
+├── analysis/
+│   ├── Panel_regression.ipynb
+│   ├── Event_study_(google_colab).ipynb
+│   └── Returns_and_Volatility.ipynb
